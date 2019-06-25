@@ -1,0 +1,17 @@
+{
+  "port": 8080,
+  "mongoose": {
+    "uri": "mongodb://vaultboy324:rjxBqjxUpsLEBorAslOeHmLhjBVc7mjxKpK9AdOKamjMVizPppr9BjfUo58VTrtOlHRe5Dm9vLI6TvXVrDcFDA==@vaultboy324.documents.azure.com:10255/myService?ssl=true&replicaSet=globaldb"
+  },
+  "session": {
+    "secret": "myAzureTestProject",
+    "key": "sid",
+    "cookie": {
+      "path": "/",
+      "httpOnly": true,
+      "maxAge": null
+    }
+  },
+  "server": "http://localhost:5000/",
+  "secretKey": "myAzureTestProject"
+}
