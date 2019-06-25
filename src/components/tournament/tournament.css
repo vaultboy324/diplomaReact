@@ -1,0 +1,21 @@
+.info{
+    text-align: right;
+}
+
+.name{
+    text-align: center;
+}
+
+.childContainer{
+    width: 40%;
+    height: 100%;
+    margin: 20px;
+}
+
+.row{
+    margin-top: 50px;
+}
+
+.endButton{
+    text-align: center;
+}

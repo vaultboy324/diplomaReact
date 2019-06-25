@@ -1,0 +1,21 @@
+.userInfo{
+    width: 40%;
+    margin-left: 5%;
+    height: 100%;
+    padding: 5px;
+}
+
+.tournamentsInfo{
+    width: 40%;
+    margin-left: 5%;
+    height: 100%;
+}
+
+.userContainer{
+    height: 100%;
+    margin-top: 5%;
+}
+
+.buttonDiv{
+    text-align: center;
+}
